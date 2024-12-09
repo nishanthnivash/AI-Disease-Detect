@@ -1,0 +1,3 @@
+Symptoms,RF Prediction,NB Prediction,SVM Prediction,Final Prediction
+"Itching,Skin Rash,Nodal Skin Eruptions",Allergy,Drug Reaction,Allergy,Allergy
+"Fever,Chills,Sweating",Malaria,Malaria,Malaria,Malaria

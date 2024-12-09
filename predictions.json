@@ -1,0 +1,8 @@
+{
+    "Symptoms Provided": "Itching, Skin Rash",
+    "Model Predictions": {
+        "Random Forest": "Allergy",
+        "Naive Bayes": "Skin Infection",
+        "SVM": "Allergy"
+    }
+}
